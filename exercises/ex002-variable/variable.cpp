@@ -1,7 +1,7 @@
 #include <iostream>
 
 int main(){
-    int age = 0;
+    int age;
 
     std::cout << "Input your age:";
     std::cin >> age;
